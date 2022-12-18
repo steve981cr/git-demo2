@@ -1,2 +1,2 @@
 This is an example app to learn Git.
-Feature 1.
+Feature 1.Feature 2.
